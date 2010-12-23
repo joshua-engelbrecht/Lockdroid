@@ -1,0 +1,26 @@
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\MainWindow.baml
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\App.g.cs
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\LockDroid_MarkupCompile.cache
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\LockDroid.g.resources
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\LockDroid.Properties.Resources.resources
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\bin\Debug\LockDroid.exe
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\bin\Debug\LockDroid.pdb
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\LockDroid.exe
+C:\Users\jengelbrecht\AppData\Local\Temporary Projects\LockDroid\obj\x86\Debug\LockDroid.pdb
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\LockDroid.exe
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\LockDroid.pdb
+C:\Projects\LockDroid\LockDroid\bin\Debug\LockDroid.exe
+C:\Projects\LockDroid\LockDroid\bin\Debug\LockDroid.pdb
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\MainWindow.baml
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\App.g.cs
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\LockDroid_MarkupCompile.cache
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\LockDroid.g.resources
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\LockDroid.Properties.Resources.resources
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\LockDroid\LockDroid\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,15 @@
+﻿<Window x:Class="LockDroid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="1000">
+    <Window.Background>
+        <ImageBrush ImageSource="Data/background.jpg"/>
+    </Window.Background>
+    <Grid>
+        <StackPanel Height="537" HorizontalAlignment="Left" Margin="12,12,0,0" Name="stackPanel1" VerticalAlignment="Top" Width="100">
+            <Button Height="23" Width="90" Margin="6,6,6,6" Content="Start Game" Name="StartGame" Click="StartGame_Click"/>
+            <Button Content="End Game" Height="23" Name="EndGame" Width="90" Click="EndGame_Click"/>
+        </StackPanel>
+        <Grid Height="537" Margin="118,12,12,0" VerticalAlignment="Top" Name="RootWindow" />
+    </Grid>
+</Window>
